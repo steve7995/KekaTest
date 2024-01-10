@@ -11,3 +11,8 @@ Prerequisites
 Node js 
 Vs code
 expo cli 
+
+
+App made with react Native 
+
+Thank You
